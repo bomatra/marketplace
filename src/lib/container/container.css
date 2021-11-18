@@ -1,0 +1,27 @@
+.header {
+    text-align: center;
+    padding: 32px;
+  }
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+    padding: 32px;
+    flex-wrap: wrap;
+
+  }
+
+  .container {
+    background: #060607;
+  
+    /* give the outermost container a predefined size */
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 600px;
+    
+    display: flex;
+    flex-direction: column;
+  }

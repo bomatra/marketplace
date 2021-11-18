@@ -1,0 +1,12 @@
+.column  h1 {
+    color: black;
+    text-align: left;
+    font-size: medium;
+
+  }
+
+.column p {
+    font-size: smaller;
+    text-align: left;
+
+}

@@ -1,0 +1,40 @@
+.column {
+    flex: 1 0 48%;
+    max-width: 25%;
+    max-height: 25%;
+
+    padding: 0 4px;
+    flex-grow: 0;
+  }
+
+.box {
+    margin: 4px;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: .5em;
+    border-color: rgb(153, 153, 153);
+    overflow: hidden;
+}
+.section {
+    text-align: left;
+    padding: 5px;
+
+}
+  .box .section h1 {
+    color: black;
+    text-align: left;
+    font-size: small;
+}
+ .box .section .label {
+    color: black;
+    text-align: left;
+    font-size: small;
+    font-weight: bold;
+}
+
+ .box .section .value {
+    padding-left: 2px;
+    color: black;
+    text-align: left;
+    font-size: smaller;
+}

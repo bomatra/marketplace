@@ -1,3 +1,21 @@
+# Please see getting started section on how to run application
+# Brief description of your process (approximately 2 paragraphs or so) that includes:
+# ■ Your technical decisions - which framework did you choose and why? If you used libraries, how did you choose them?
+I chose react because:
+1. I am familiar with react 
+2. It is easy to build component modular design.
+# ■ Any choices you made that were inspired from or deviated from the wireframe and why.
+none
+# ■ Any questions that you would have liked to ask the design team while working on this.
+1. Does this site has to accessibilty enabled. As it is .gov site. Do you make sure all design are accessibilyt enabled?
+# Brief spec of how you would implement the following functionality (approximately 2 paragraphs or so):
+■ Remove a household member
+    I would add checkboxes on each card and a button to remove a houehold member.
+    User can check/select all the cards (memebers) delete one or many.
+■ Edit a household member
+    I would add a modal to input member detail and save button on modal.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -63,8 +81,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+# This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+

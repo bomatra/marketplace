@@ -1,0 +1,31 @@
+.content {
+    text-align: left;
+    padding: 20px;
+
+}
+.content  h1 {
+    color: black;
+    text-align: left;
+    font-size: medium;
+  }
+
+.content p {
+    font-size: smaller;
+
+}
+
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+    min-width: 100%;
+  }
+
+  .scrollable-content {
+    flex-grow: 1;
+    overflow: auto;
+    
+    /* for Firefox */
+    min-height: 0;
+  }
